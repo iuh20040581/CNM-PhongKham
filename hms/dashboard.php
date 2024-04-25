@@ -42,7 +42,7 @@ check_login();
                 <section id="page-title">
                     <div class="row">
                         <div class="col-sm-8">
-                            <h1 class="mainTitle">User | Bảng điều khiển</h1>
+                            <h1 class="mainTitle">User | SBảng điều khiển</h1>
                         </div>
                         <ol class="breadcrumb">
                             <li>
